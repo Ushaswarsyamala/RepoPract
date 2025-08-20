@@ -3,6 +3,7 @@
 #     print(sum)
 #     return(sum)
 # class_test(1,2)
+
 # def avg_func(a,b,c,d):
 #     avg = (a+b+c+d)/4
 #     print(int(avg))
